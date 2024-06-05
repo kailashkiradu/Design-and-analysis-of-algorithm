@@ -66,12 +66,18 @@ QuickSort is a divide-and-conquer algorithm that picks an element as a pivot and
 Recursive algorithms solve problems by calling themselves with a subset of the original problem. This section includes recursive implementations of various algorithms.
 
 ---
-
 ## Getting Started
 
-To run these programs, you'll need to have Python installed on your machine. Clone this repository and navigate to the directory containing the program you want to run. Execute the program using a Python interpreter.
+To run these programs, you'll need to have Java installed on your machine. Clone this repository and navigate to the directory containing the program you want to run. Compile and execute the program using the Java compiler and runtime.
+
+### Example Commands:
 
 ```bash
 git clone https://github.com/kailashkiradu/Design-and-analysis-of-algorithm.git
 cd Design-and-analysis-of-algorithm
-python BinarySearch.py  # example command to run the binary search program
+
+# Compile the Binary Search program
+javac BinarySearch.java
+
+# Run the Binary Search program
+java BinarySearch
