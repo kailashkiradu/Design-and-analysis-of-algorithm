@@ -4,7 +4,7 @@ Welcome to the repository for Design and Analysis of Algorithms (DAA) programs f
 
 ## Table of Contents
 
-- [Binary Search](#BinarySearch)
+- [Binary Search](#binary-search)
 - [Floyd's Algorithm](#floyds-algorithm)
 - [Heap Sort](#heap-sort)
 - [Longest Common Subsequence](#longest-common-subsequence)
