@@ -72,6 +72,6 @@ Recursive algorithms solve problems by calling themselves with a subset of the o
 To run these programs, you'll need to have Python installed on your machine. Clone this repository and navigate to the directory containing the program you want to run. Execute the program using a Python interpreter.
 
 ```bash
-git clone https://github.com/your-username/daa-third-semester.git
-cd daa-third-semester
-python binary_search.py  # example command to run the binary search program
+git clone https://github.com/kailashkiradu/Design-and-analysis-of-algorithm.git
+cd Design-and-analysis-of-algorithm
+python BinarySearch.py  # example command to run the binary search program
